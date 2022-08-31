@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.window {
+  border: solid black 1px;
+  padding: 10px 20px;
+}
